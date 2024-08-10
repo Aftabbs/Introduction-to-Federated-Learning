@@ -11,6 +11,17 @@ Federated Learning (FL) is an innovative approach to training machine learning m
 - **PyTorch (torch)**: A popular deep learning framework used for model development and training.
 - **Pandas**: A powerful data manipulation library, essential for handling datasets.
 - **NumPy**: A fundamental library for numerical operations in Python, supporting matrix operations, which are crucial in machine learning.
+- flwr==1.10.0
+- ray==2.6.3
+- flwr-datasets[vision]==0.2.0
+- torch==2.2.1
+- torchvision==0.17.1
+- matplotlib==3.8.3
+- scikit-learn==1.4.2
+- seaborn==0.13.2
+- ipywidgets==8.1.2
+- transformers==4.42.4
+- accelerate==0.30.0
 
 ## Dataset
 - **MNIST**: A well-known dataset consisting of handwritten digits, widely used for training and testing in the field of machine learning. It serves as a simple yet effective benchmark for demonstrating Federated Learning concepts.
